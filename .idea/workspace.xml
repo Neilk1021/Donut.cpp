@@ -18,7 +18,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46234871-df80-4ab2-98c3-493edfb81674" name="Changes" comment="Created Donut.cpp" />
+    <list default="true" id="46234871-df80-4ab2-98c3-493edfb81674" name="Changes" comment="Created Donut.cpp">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,11 +56,12 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,7 +84,7 @@
       <workItem from="1715357219249" duration="657000" />
       <workItem from="1727735951563" duration="1236000" />
       <workItem from="1727905932933" duration="4685000" />
-      <workItem from="1727970614239" duration="418000" />
+      <workItem from="1727970614239" duration="722000" />
     </task>
     <task id="LOCAL-00001" summary="Created Donut.cpp">
       <option name="closed" value="true" />
@@ -90,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727971030826</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created Donut.cpp">
+      <option name="closed" value="true" />
+      <created>1727971042447</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727971042447</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
